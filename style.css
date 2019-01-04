@@ -1,43 +1,43 @@
-.Jeremy
-{
-  font-size: 36px;
-  margin: 40px 0 10px 143px;
-  font-weight: bold;
-  color: grey;
-}
-.Jerem
-{
-  font-size: 18px;
-  margin: 28px 0 0 143px;
-}
+
 .Jerôme
 {
-  font-size: 27px;
-  margin: 25px 0 0 143px;
   font-weight: bold;
-  color: grey
+
 }
 .Joe
 {
-  font-size: 18px;
-  margin: 25px 0 0 143px;
   font-weight: bold;
 }
 .Jeff
 {
-  font-size: 18px;
-  margin: 22px 0 0 143px;
   line-height: 160%;
 }
 .Bob
 {
-  font-size: 18px;
-  margin: 18px 0 0 143px;
   line-height: 160%
 }
 .Stopmakingithardtoalign
 {
-  font-size: 21px;
-  margin: 21px 0 0 143px;
   font-weight: bold;
+}
+.Jeffcitation
+{
+  line-height: 160%;
+  margin-left: 40px
+}
+.Epilogue
+{
+  font-size: 27px;
+  font-weight: bold;
+
+  border-top: 2px solid black;
+  padding-top: 20px;
+}
+body
+{
+  color: #444;
+ max-width: 650px;
+ margin: 40px auto;
+ font-size: 18px;
+padding: 0 10px;
 }
